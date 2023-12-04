@@ -1,0 +1,14 @@
+# .gitignore
+
+# Ignore .env files
+.env
+
+# Ignore virtual environment folders
+venv/
+env/
+
+# Ignore compiled Python files
+*.pyc
+
+# Ignore database files
+*.db
